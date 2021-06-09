@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rehber Uygulaması</string>
+    <string name="kullanici_adi">maku_gubyo</string>
+    <string name="sifre">maku_gubyo</string>
+    <string name="AdSoyad">Ad Soyad</string>
+    <string name="TelefonNo">Telefon No</string>
+    <string name="Mail">Mail</string>
+    <string name="KisiselNot">Kişisel Not</string>
+    <string name="DogumTarihi">Doğum Tarihi</string>
+    <string name="AlertDetay">Kişi Detaylarını Gör</string>
+    <string name="AlertDuzen">Kişiyi Düzenle</string>
+    <string name="AlertSil">Kişiyi Sil</string>
+</resources>

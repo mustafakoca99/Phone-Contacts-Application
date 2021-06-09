@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/ic_launcher_foreground">
+
+    <TextView
+        android:id="@+id/AlertTV1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="@color/cardview_dark_background"
+        android:background="@color/design_default_color_secondary"
+        android:text="@string/AlertDetay" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="@color/cardview_dark_background"
+        android:background="@color/design_default_color_secondary"
+        android:id="@+id/AlertTV2"
+        android:text="@string/AlertDuzen"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="@color/cardview_dark_background"
+        android:background="@color/design_default_color_secondary"
+        android:id="@+id/AlertTV3"
+        android:text="@string/AlertSil"/>
+
+
+</LinearLayout>
